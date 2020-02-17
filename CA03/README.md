@@ -44,16 +44,16 @@ Each code has a comment for clarifying the purpose
 
 ### Break down into end to end tests
 
-The best model in this project is by setting__
-`criterion`: "gini" \\
-`min_sample_split`: 4 \\
-`min_sample_leaf`: 10 \\
-`max_depth`: 7
+The best model in this project is by setting\
+`criterion`: "gini"\
+`min_sample_split`: 4\
+`min_sample_leaf`: 10\
+`max_depth`: 7\
 
-The scores are
-`accuracy`: 0.84
-`recall`: 0.59
-`precision`: 0.70
+The scores are\
+`accuracy`: 0.84\
+`recall`: 0.59\
+`precision`: 0.70\
 `F1-score`: 0.64
 
 ## Authors
