@@ -44,10 +44,10 @@ Each code has a comment for clarifying the purpose
 
 ### Break down into end to end tests
 
-The best model in this project is by setting
-`criterion`: "gini"
-`min_sample_split`: 4
-`min_sample_leaf`: 10
+The best model in this project is by setting \\
+`criterion`: "gini" \\
+`min_sample_split`: 4 \\
+`min_sample_leaf`: 10 \\
 `max_depth`: 7
 
 The scores are
