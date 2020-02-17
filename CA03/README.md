@@ -32,7 +32,7 @@ from IPython.display import Image
 import pydotplus
 from sklearn.metrics import confusion_matrix, recall_score, precision_score,
                             accuracy_score, f1_score, roc_curve, roc_auc_score, classification_report
-from sklearn.model_selection  import RandomizedSearchCV
+from sklearn.model_selection import RandomizedSearchCV
 ```
 
 ## Running the codes
