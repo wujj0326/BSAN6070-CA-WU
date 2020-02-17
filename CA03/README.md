@@ -7,14 +7,14 @@ Applying `Decision Tree Classifier` Algorithm to Census Data
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ```
-File Name: `CA03_DecisionTree.ipynb`
+File Name: CA03_DecisionTree.ipynb
 ```
 
 ### Prerequisites
 
 ```
 Python 3
-CSV Name: `census_data.csv`
+CSV Name: census_data.csv
 ```
 
 ### Installing Packages
