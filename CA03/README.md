@@ -23,16 +23,11 @@ CSV Name: census_data.csv
 Pandas
 Numpy
 Matplotlib.pyplot
-from IPython.core.interactiveshell import InteractiveShell
-from sklearn.tree import DecisionTreeClassifier 
-from sklearn.preprocessing import OneHotEncoder
-from sklearn.tree import export_graphviz
-from sklearn.externals.six import StringIO  
-from IPython.display import Image  
-import pydotplus
-from sklearn.metrics import confusion_matrix, recall_score, precision_score,
-                            accuracy_score, f1_score, roc_curve, roc_auc_score, classification_report
-from sklearn.model_selection import RandomizedSearchCV
+IPython.core.interactiveshell
+Sklearn  
+IPython.display  
+pydotplus
+
 ```
 
 ## Running the codes
