@@ -1,6 +1,6 @@
 # Computer Assignment 05 
 
-Applying `Logistic Regression` Algorithm to Cardiovascular Disease Data and `KNN` Movie recommendation system
+Applying `Logistic Regression` Algorithm to Cardiovascular Disease Data and `KNN` for Movie recommendation system
 
 ## Getting Started
 
