@@ -29,15 +29,14 @@ Seaborn
 ## Running the codes
 
 ```
-Run through all the codes in Python Notebook
-Each code has a comment for clarifying the purpose
-
 There are two sections in this notebook
 
 The first is to use Logistic Regression to predict the Cardiovascular Disease risk (Yes/No)
-
 The second is to use KNN to build a movie recommendation system. 
 Moreover, to give the new movie "The post" five recommendations
+
+Run through all the codes in Python Notebook
+Each code has a comment for clarifying the purpose
 ```
 
 ### Break down into end to end tests
