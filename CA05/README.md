@@ -14,7 +14,6 @@ File Name: CA05_LR_KNN_Models.ipynb
 
 ```
 Python 3
-
 ```
 
 ### Installing Packages
@@ -34,16 +33,24 @@ Seaborn
 ```
 Run through all the codes in Python Notebook
 Each code has a comment for clarifying the purpose
-The main purpose is to find out the best n_estimator for each model
+There are two sections in this notebook
+The first is to use Logistic Regression to predict the Cardiovascular Disease risk (Yes/No)
+The second is to use KNN to build a movie recommendation system. Moreover, to give the new movie "The post" five recommendations
 ```
 
 ### Break down into end to end tests
 
-The best n_estimator in this project is by setting\
-`Random Forest`: 500\
-`AdaBoost`: 100\
-`Gradient Boosting`: 250\
-`XGBoost`: 300
+`Logistic Regression`:\
+Accuracy:0.67\
+AUC:0.69\
+
+`KNN`:\
+The five recommendations for the post is:
+12 Years a Slave,\
+Hacksaw Ridge,\
+Queen of Katwe,\
+The Wind Rises,\
+A Beautiful Mind
 
 
 ## Authors
@@ -56,4 +63,5 @@ This project is licensed under the LMU MSBA program
 
 ## Data Source
 
-The data is from 'https://github.com/ArinB/MSBA-CA-03-Decision-Trees/blob/master/census_data.csv?raw=true'
+The LR data is from 'https://github.com/ArinB/CA05-B-Logistic-Regression/raw/master/cvd_data.csv'/
+The KNN data is from 'https://github.com/ArinB/CA05-kNN/raw/master/movies_recommendation_data.csv'
