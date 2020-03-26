@@ -47,7 +47,7 @@ Accuracy:0.67\
 AUC:0.69
 
 `KNN`:\
-The five recommendations for the post is:
+The five recommendations for the post is:\
 12 Years a Slave,\
 Hacksaw Ridge,\
 Queen of Katwe,\
@@ -65,5 +65,5 @@ This project is licensed under the LMU MSBA program
 
 ## Data Source
 
-The LR data is from 'https://github.com/ArinB/CA05-B-Logistic-Regression/raw/master/cvd_data.csv'\
+The LR data is from 'https://github.com/ArinB/CA05-B-Logistic-Regression/raw/master/cvd_data.csv' \
 The KNN data is from 'https://github.com/ArinB/CA05-kNN/raw/master/movies_recommendation_data.csv'
