@@ -42,8 +42,8 @@ Each code has a comment for clarifying the purpose
 ### Break down into end to end tests
 
 `Logistic Regression`:\
-Accuracy:0.67\
-AUC:0.69
+Accuracy:0.69\
+AUC:0.75
 
 `KNN`:\
 The five recommendations for the post is:\
